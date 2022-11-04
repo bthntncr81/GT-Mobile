@@ -1,0 +1,7 @@
+{
+  "name": "Go-there",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
